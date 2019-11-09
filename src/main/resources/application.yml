@@ -1,0 +1,14 @@
+server:
+  port: 8080
+
+#spring:
+  #redis:
+    #host: 10.10.60.65
+    #port: 6379
+    #password: iqianjin@123
+
+logging:
+  level:
+    root: debug
+    org.springframework.web: debug
+    org.springframework.security: debug

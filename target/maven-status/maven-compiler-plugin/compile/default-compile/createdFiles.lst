@@ -1,0 +1,8 @@
+com/oauth2/example/config/ApolloConfigHolder.class
+com/oauth2/example/controller/MainController.class
+com/oauth2/example/config/ApolloAutoConfig.class
+com/oauth2/example/Oauth2ServerApplication.class
+com/oauth2/example/domain/UserInfo.class
+com/oauth2/example/config/WebSecurityConfig.class
+com/oauth2/example/config/ResourceServerConfig.class
+com/oauth2/example/config/AuthorizationServerConfig.class
